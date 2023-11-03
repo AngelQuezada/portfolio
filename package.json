@@ -17,7 +17,7 @@
 		"react-scroll": "^1.8.4",
 		"styled-components": "^5.3.3",
 		"web-vitals": "^1.0.1",
-		"serve": "^latest"
+		"serve": "latest"
 	},
 	"scripts": {
 		"start": "react-scripts --openssl-legacy-provider start",
